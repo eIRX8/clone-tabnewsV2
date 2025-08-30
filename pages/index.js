@@ -1,4 +1,4 @@
 function Home() {
-  return <h1>Olá! O Canto dos Passaros e Puro.</h1>;
+  return <h1>Olá! Eu sou o TabNewsV2.</h1>;
 }
 export default Home;
